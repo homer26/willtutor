@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180714001000 -0300" stop="20180714021000 -0300" channel="HBO">
+    <title lang="pt">Maudie: Sua Vida e Sua Arte</title>
+    <desc lang="pt">Desde nova Maud Lewis tem artrite reumatoide, que causa inflamações e deformações nas articulações do seu corpo. Ela possui habilidades artísticas e, apesar das suas limitações físicas, consegue superar a doença(n)</desc>
+    <credits>
+      <director>Aisling Walsh</director>
+      <actor>Ethan Hawke</actor>
+      <actor>Sally Hawkins</actor>
+      <actor>Kari Matchett</actor>
+      <actor>Zachary Bennett</actor>
+      <actor>Gabrielle Rose</actor>
+      <actor>Billy MacLellan</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180714021000 -0300" stop="20180714035500 -0300" channel="HBO">
+    <title lang="pt">Arthur Miller: Escritor</title>
+    <desc lang="pt">Um olhar íntimo para a vida de Arthur Miller, um dos maiores escritores dos EUA no século XX, a partir da perspectiva de sua filha, a cineasta Rebecca Miller(n)</desc>
+    <credits>
+      <director>Rebecca Miller</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180714035500 -0300" stop="20180714052500 -0300" channel="HBO">
+    <title lang="pt">Loucuras em Família</title>
+    <desc lang="pt">Três famílias diferentes decidem acampar no mesmo acampamento durante o feriado de 4 de julho, porém só há espaço para uma delas. Para decidir quem ficará no acampamento, as famílias terão que competir(n)</desc>
+    <credits>
+      <director>Fred Wolf</director>
+      <actor>Charlie Sheen</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>Efren Ramirez</actor>
+      <actor>Clint Howard</actor>
+      <actor>Leah Remini</actor>
+      <actor>Naya Rivera</actor>
+      <actor>Finesse Mitchell</actor>
+      <actor>Charlotte McKinney</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180714052500 -0300" stop="20180714071000 -0300" channel="HBO">
+    <title lang="pt">Noites de Tormenta</title>
+    <desc lang="pt">Uma mulher com a vida em polvorosa e um homem em crise de consciência se conhecem em uma pousada, onde têm um fim de semana marcante. Começa aí um romance que mudará suas vidas(n)</desc>
+    <credits>
+      <director>George C. Wolfe</director>
+      <actor>Richard Gere</actor>
+      <actor>Diane Lane</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Viola Davis</actor>
+      <actor>Becky Ann Baker</actor>
+      <actor>Linda Molloy</actor>
+      <actor>Pablo Schreiber</actor>
+      <actor>Mae Whitman</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180714071000 -0300" stop="20180714084000 -0300" channel="HBO">
+    <title lang="pt">Virei um Gato</title>
+    <desc lang="pt">Ben é um executivo de sucesso, viciado em trabalho, que passa pouco tempo com a família. Para o aniversário da filha, ele compra um gato mas, a caminho de casa, Ben sofre um acidente e entra em coma(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Robbie Amell</actor>
+      <actor>Cheryl Hines</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Teddy Sears</actor>
+      <actor>Jay Patterson</actor>
+      <actor>Serge Houde</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180714084000 -0300" stop="20180714091000 -0300" channel="HBO">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180714091000 -0300" stop="20180714110000 -0300" channel="HBO">
+    <title lang="pt">Tiras em Apuros</title>
+    <desc lang="pt">Dois parceiros policiais de longa data investigam o roubo de um raro cartão de beisebol de 1952, realizado por um gângster impiedoso(n)</desc>
+    <credits>
+      <director>Kevin Smith</director>
+      <actor>Bruce Willis</actor>
+      <actor>Tracy Morgan</actor>
+      <actor>Juan Carlos Hernández</actor>
+      <actor>Ana de la Reguera</actor>
+      <actor>Joe Sagal</actor>
+      <actor>Jeff Lima</actor>
+      <actor>Sean Cullen</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180714110000 -0300" stop="20180714131500 -0300" channel="HBO">
+    <title lang="pt">Homem-Aranha - De Volta ao Lar</title>
+    <desc lang="pt">Após atuar ao lado dos Vingadores, o pequeno Peter Parker volta para casa e para a sua vida. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida(n)</desc>
+    <credits>
+      <director>Jon Watts</director>
+      <actor>Tom Holland</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Robert Downey Jr</actor>
+      <actor>Marisa Tomei</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Jacob Batalon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180714131500 -0300" stop="20180714150000 -0300" channel="HBO">
+    <title lang="pt">Jackie</title>
+    <desc lang="pt">Criadas por um casal homossexual, duas irmãs gêmeas viajam para os Estados Unidos para ajudar a mãe biológica. Elas embarcam em uma jornada inesquecível com a excêntrica Jackie, e suas vidas nunca mais serão a mesma(n)</desc>
+    <credits>
+      <director>Antoinette Beumer</director>
+      <actor>Holly Hunter</actor>
+      <actor>Carice Van Houten</actor>
+      <actor>Jelka Van Houten</actor>
+      <actor>Valerie Adams</actor>
+      <actor>Luis Bordonada</actor>
+      <actor>Chadwick Brown</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180714150000 -0300" stop="20180714170000 -0300" channel="HBO">
+    <title lang="pt">A Chegada</title>
+    <desc lang="pt">Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Mark O'Brien</actor>
+      <actor>Tzi Ma</actor>
+      <actor>Abigail Pniowsky</actor>
+      <actor>Julia Scarlett Dan</actor>
+      <actor>Jadyn Malone</actor>
+      <actor>Frank Schorpion</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180714170000 -0300" stop="20180714190000 -0300" channel="HBO">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <desc lang="pt">Anos após a trágica morte de sua filha, um artesão de bonecas e sua esposa decidem acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato(n)</desc>
+    <credits>
+      <director>David F. Sandberg</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180714190000 -0300" stop="20180714194000 -0300" channel="HBO">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180714194000 -0300" stop="20180714220000 -0300" channel="HBO">
+    <title lang="pt">Homem-Aranha - De Volta ao Lar</title>
+    <desc lang="pt">Após atuar ao lado dos Vingadores, o pequeno Peter Parker volta para casa e para a sua vida. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida(n)</desc>
+    <credits>
+      <director>Jon Watts</director>
+      <actor>Tom Holland</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Robert Downey Jr</actor>
+      <actor>Marisa Tomei</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Jacob Batalon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180714220000 -0300" stop="20180715005000 -0300" channel="HBO">
+    <title lang="pt">Fome de Poder</title>
+    <desc lang="pt">Ray Kroc descobre o restaurante de fast-food operado pelos irmãos McDonald no sul da Califórnia no final dos anos 50. Impressionado com o potencial do empreendimento, o ambicioso faz de tudo para assumir o controle do negócio(n)</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Nick Offerman</actor>
+      <actor>Laura Dern</actor>
+      <actor>Griff Furst</actor>
+      <actor>Michael Keaton</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>B.J. Novak</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+</tv>
